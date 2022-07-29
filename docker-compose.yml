@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  propagator:
+    build: .
+    volumes:
+      - ./work:/work
+  

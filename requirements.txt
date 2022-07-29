@@ -1,0 +1,15 @@
+affine
+angles
+numpy
+pyproj
+python-dateutil
+pytz
+rasterio
+scipy
+Shapely
+simplegeneric
+six
+snuggs
+sortedcontainers
+utm
+fiona
