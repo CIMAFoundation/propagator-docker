@@ -20,7 +20,7 @@
   "grid_dim_km":20,
   "init_date":"202001300000",
   "w_speed":0,
-  "n_threads":100,
+  "n_threads":10,
   "heavy_action": 0,
   "waterline_action": 0,
   "canadair": 0,
